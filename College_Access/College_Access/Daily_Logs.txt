@@ -1,4 +1,0 @@
-User: josh - student
-User: ben - student
-Room: ks5 - staff - State: NORMAL
-Room: Ks3 - staff - State: EMERGENCY
